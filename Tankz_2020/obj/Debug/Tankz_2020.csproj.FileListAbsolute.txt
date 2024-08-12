@@ -1,0 +1,166 @@
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\obj\Debug\Tankz_2020.csprojAssemblyReference.cache
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\obj\Debug\Tankz_2020.csproj.CoreCompileInputs.cache
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\bullet_ico.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\comics.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\crate.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\cyberpunk-street1.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\cyberpunk-street2.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\cyberpunk-street3.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\missile_ico.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\sounds\cannonShoot.wav
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\sounds\wood_crack_1.ogg
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\sounds\wood_crack_2.ogg
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\tanks_turret2.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\tank_bullet1.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\tank_bullet3.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\textSheet.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\weapons_GUI_frame.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Tankz_2020.exe.config
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Tankz_2020.exe
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Tankz_2020.pdb
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\aiv-audio.dll
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\aiv-fast2d.dll
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\NVorbis.dll
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\OpenTK.dll
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\NVorbis.xml
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\OpenTK.pdb
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\OpenTK.xml
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\obj\Debug\Tankz_2020.csproj.CopyComplete
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\obj\Debug\Tankz_2020.exe
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\obj\Debug\Tankz_2020.pdb
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\bg_0.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\bg_1.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\bg_playground.png
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\sounds\whistle.ogg
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\sounds\engineStart.wav
+C:\Users\Chirone\source\repos\Tankz_2020\Tankz_2020\bin\Debug\Assets\explosion.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\bg_0.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\bg_1.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\bg_playground.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\bullet_ico.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\comics.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\crate.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\cyberpunk-street1.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\cyberpunk-street2.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\cyberpunk-street3.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\explosion.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\missile_ico.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\sounds\cannonShoot.wav
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\sounds\engineStart.wav
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\sounds\whistle.ogg
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\sounds\wood_crack_1.ogg
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\sounds\wood_crack_2.ogg
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\tanks_turret2.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\tank_bullet1.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\tank_bullet3.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\textSheet.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\weapons_GUI_frame.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Tankz_2020.exe.config
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Tankz_2020.exe
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\Tankz_2020.pdb
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\aiv-audio.dll
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\aiv-fast2d.dll
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\NVorbis.dll
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\OpenTK.dll
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\NVorbis.xml
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\OpenTK.pdb
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\bin\Debug\OpenTK.xml
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\obj\Debug\Tankz_2020.csproj.CoreCompileInputs.cache
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\obj\Debug\Tankz_2020.csproj.CopyComplete
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\obj\Debug\Tankz_2020.exe
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\obj\Debug\Tankz_2020.pdb
+C:\Users\Federico De Felici\Desktop\lezione\lezione-20210531_PostProcessing\Tankz_2020\Tankz_2020\obj\Debug\Tankz_2020.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\bg_0.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\bg_1.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\bg_playground.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\bullet_ico.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\comics.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\crate.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\cyberpunk-street1.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\cyberpunk-street2.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\cyberpunk-street3.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\explosion.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\missile_ico.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\sounds\cannonShoot.wav
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\sounds\engineStart.wav
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\sounds\whistle.ogg
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\sounds\wood_crack_1.ogg
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\sounds\wood_crack_2.ogg
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\tanks_turret2.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\tank_bullet1.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\tank_bullet3.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\textSheet.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\weapons_GUI_frame.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Tankz_2020.exe.config
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Tankz_2020.exe
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\Tankz_2020.pdb
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\aiv-audio.dll
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\aiv-fast2d.dll
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\NVorbis.dll
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\OpenTK.dll
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\NVorbis.xml
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\OpenTK.pdb
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\bin\Debug\OpenTK.xml
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\obj\Debug\Tankz_2020.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\obj\Debug\Tankz_2020.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\obj\Debug\Tankz_2020.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\obj\Debug\Tankz_2020.csproj.CopyComplete
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\obj\Debug\Tankz_2020.exe
+C:\Users\aless\OneDrive\Desktop\Tankz_2020_InClass\Tankz_2020\obj\Debug\Tankz_2020.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\bg_0.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\bg_1.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\bg_playground.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\bullet_ico.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\comics.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\crate.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\cyberpunk-street1.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\cyberpunk-street2.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\cyberpunk-street3.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\explosion.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\missile_ico.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\sounds\cannonShoot.wav
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\sounds\engineStart.wav
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\sounds\whistle.ogg
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\sounds\wood_crack_1.ogg
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\sounds\wood_crack_2.ogg
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\tanks_turret2.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\tank_bullet1.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\tank_bullet3.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\textSheet.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\weapons_GUI_frame.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Tankz_2020.exe.config
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Tankz_2020.exe
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\Tankz_2020.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\aiv-audio.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\aiv-fast2d.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\NVorbis.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\OpenTK.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\NVorbis.xml
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\OpenTK.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\bin\Debug\OpenTK.xml
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\obj\Debug\Tankz_2020.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\obj\Debug\Tankz_2020.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\obj\Debug\Tankz_2020.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\obj\Debug\Tankz_2020.csproj.CopyComplete
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\obj\Debug\Tankz_2020.exe
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Tankz_Post_FX\Tankz_2020\obj\Debug\Tankz_2020.pdb
